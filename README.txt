@@ -1,1 +1,0 @@
-This Template Only Works For SDL2 & OpenGL3.
